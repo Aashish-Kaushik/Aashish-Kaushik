@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashish Kaushik</h1>
-<h3 align="center">A Passionate Backend developer</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Node.js developer with experience in building scalable web applications and APIs. I love working with JavaScript and exploring new technologies in the Node.js ecosystem. My repository showcases some of my projects and contributions. Feel free to explore, collaborate, and provide feedback!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-kaushik&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-kaushik" /> </p>
-
-- 🔭 I’m currently working on **Node.js Framework**
 
 - 📫 reach me **aashishkaushik266@gmail.com**
 
