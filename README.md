@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashish-kaushik&show_icons=true&locale=en&layout=compact" alt="aashish-kaushik" /></p>
 </td>
 <td>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-kaushik" alt="aashish-kaushik" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-kaushik" alt="aashish-kaushik" /></p> -->
 </td>
 </tr>
 </table>
